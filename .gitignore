@@ -1,0 +1,10 @@
+node_modules
+.DS_Store
+dist-ssr
+*.local
+.idea
+.env.production
+.env.development
+package-lock.json
+yarn.lock
+.vite
